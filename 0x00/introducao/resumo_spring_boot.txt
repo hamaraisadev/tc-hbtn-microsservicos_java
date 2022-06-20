@@ -1,0 +1,16 @@
+- O Spring Boot é um framework Java open source que tem como objetivo facilitar esse processo em aplicações Java.
+Consequentemente, ele traz mais agilidade para o processo de desenvolvimento, uma vez que devs conseguem reduzir o tempo gasto com as configurações iniciais.
+- O maior benefício de usar o Spring Boot é conseguir otimizar seu tempo e aumentar sua produtividade, já que ele simplifica o desenvolvimento de aplicações.
+- O primeiro passo é a criação de um novo projeto Maven: para isso devemos acessar o menu File > New > Order > Maven Project.
+Após clicar em Next aparecerá a caixa de diálogo apresentada na Figura 1.
+A opção Create a simple Project (skip archetype selection) deve ser selecionada para que ele crie um projeto vazio.
+- O próximo passo é preencher os campos da forma como está sendo mostrado na Figura 2 e ao final pressione o botão Finish para criar o projeto.
+- O projeto será desenvolvido em três camadas: model, persistence business. Essa divisão tem como objetivo realizar uma separação por função das classes.
+- Para quem desenvolve java atualmente é praticamente impossível passar despercebido o framework Spring e especificamente o Spring Boot.
+Utilizando esta stack de desenvolvimento, ganhamos muita facilidade e agilidade de desenvolvimento em projetos java de pequeno a grande porte.
+O IntelliJ IDEA é a IDE para java mais utilizada atualmente e muito provavelmente é a melhor e mais completa na opinião de muitos desenvolvedores.
+E a versão Community é uma ótima alternativa ao tradicional eclipse.
+- o Spring possui uma página chama spring initializr, nesta página você repassa as informações do seu projeto como a versão do Spring Boot, GroupID, ArtifactID e os starters.
+Assim, o spring initializr gera um projeto base para que você já comece o desenvolvimento das regras de negócio da sua aplicação.
+
+
